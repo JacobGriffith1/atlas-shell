@@ -1,14 +1,17 @@
-total 48
-drwxr-xr-x 2 root root 4096 Jan 16 22:44 .
-drwxr-xr-x 4 root root 4096 Jan 16 20:46 ..
--rwxr-xr-x 1 root root   32 Jan 16 20:48 0-hello_world
--rwxr-xr-x 1 root root   28 Jan 16 21:23 1-confused_smiley
--rwxr-xr-x 1 root root   28 Jan 16 21:28 2-hellofile
--rwxr-xr-x 1 root root   39 Jan 16 21:36 3-twofiles
--rwxr-xr-x 1 root root   35 Jan 16 21:41 4-lastlines
--rwxr-xr-x 1 root root   35 Jan 16 21:43 5-firstlines
--rwxr-xr-x 1 root root   40 Jan 16 21:54 6-third_line
--rwxr-xr-x 1 root root  101 Jan 16 22:32 7-file
--rwxr-xr-x 1 root root   36 Jan 16 22:44 8-cwd_state
--rw-r--r-- 1 root root   53 Jan 16 20:46 README.md
--rw-r--r-- 1 root root    0 Jan 16 22:45 ls_cwd_content
+total 60
+drwxr-xr-x 2 root root 4096 Jan 18 21:51 .
+drwxr-xr-x 4 root root 4096 Jan 18 21:32 ..
+-rwxr-xr-x 1 root root   32 Jan 18 21:32 0-hello_world
+-rwxr-xr-x 1 root root   28 Jan 18 21:32 1-confused_smiley
+-rwxr-xr-x 1 root root   48 Jan 18 21:32 10-no_more_js
+-rwxr-xr-x 1 root root   50 Jan 18 21:51 11-directories
+-rwxr-xr-x 1 root root   28 Jan 18 21:32 2-hellofile
+-rwxr-xr-x 1 root root   39 Jan 18 21:32 3-twofiles
+-rwxr-xr-x 1 root root   35 Jan 18 21:32 4-lastlines
+-rwxr-xr-x 1 root root   35 Jan 18 21:32 5-firstlines
+-rwxr-xr-x 1 root root   40 Jan 18 21:32 6-third_line
+-rwxr-xr-x 1 root root  101 Jan 18 21:32 7-file
+-rwxr-xr-x 1 root root   36 Jan 18 21:32 8-cwd_state
+-rwxr-xr-x 1 root root   37 Jan 18 21:32 9-duplicate_last_line
+-rw-r--r-- 1 root root   53 Jan 18 21:32 README.md
+-rw-r--r-- 1 root root    0 Jan 18 21:56 ls_cwd_content
