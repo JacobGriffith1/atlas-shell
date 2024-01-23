@@ -1,0 +1,14 @@
+#!/usr/bin/env
+#File funtimes!!!
+file="school"
+if [ $school -e ]
+then echo "school file exists"
+	if [ $school -s ]
+	then echo "school file is not empty"
+	else echo "school file is empty"
+	fi
+	if [ $school -f ]
+	then echo "school is a regular file"
+	fi
+else echo "school file does not exist"
+fi
