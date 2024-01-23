@@ -2,11 +2,11 @@
 #File funtimes!!!
 file="school"
 
-if [ -e $school ]
+if [ -e $file ]
 then 
 	echo "school file exists"
 
-	if [ -s $school ]
+	if [ -s $file ]
 	then 
 		echo "school file is not empty"
 
@@ -15,7 +15,7 @@ then
 
 	fi
 
-	if [ -f $school ]
+	if [ -f $file ]
 
 	then
 	       	echo "school is a regular file"
