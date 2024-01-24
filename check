@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Downloads/Updates Shellcheck
+
+apt-get install shellcheck
+
+echo "Ready to shellcheck!"
