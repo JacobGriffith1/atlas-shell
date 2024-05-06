@@ -1,8 +1,4 @@
 #!/usr/bin/env bash
 #Read contents from /etc/passwd
 
-while IFS= read -r username _ uid _ home _
-	echo "$username"
-	echo "$uid"
-	echo "$home"
-done < /etc/passwd
+while read -r line; do echo "$line" | cut -d: -f1,3,6; done < /etc/passwd
